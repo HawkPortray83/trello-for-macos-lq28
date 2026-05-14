@@ -1,4 +1,4 @@
-#  
+#  automatic Trello for macOS Plugin | custom themes + export to PDF is the best Trello for macOS plugin, featuring custom themes and export to PDF. Safe, efficient, and optimized
 
 
 
